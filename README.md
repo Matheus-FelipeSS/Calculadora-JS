@@ -2,8 +2,6 @@
 
 Uma calculadora web moderna e funcional construída com HTML, CSS e JavaScript.
 
-![Calculadora Preview](preview.png)
-
 ## 📋 Sobre o Projeto
 
 Este projeto é uma calculadora web que oferece operações matemáticas básicas com uma interface limpa e responsiva. A calculadora foi desenvolvida utilizando tecnologias web padrão e possui um design inspirado em calculadoras modernas.
